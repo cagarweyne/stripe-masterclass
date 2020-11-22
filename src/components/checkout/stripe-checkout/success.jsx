@@ -14,7 +14,7 @@ const Success = ({ history }) => {
       <div className='checkout'>
         <h1>Thank you for your order</h1>
         <p>We are currently processing your order and 
-          will send you a confirmation email shortyly
+          will send you a confirmation email shortly
         </p>
         <div>
           <button className='button is-black nomad-btn submit' 

@@ -124,7 +124,7 @@ form {
 
 @media(min-width: 1024px) {
   form {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
 
     input[type=text],
@@ -133,4 +133,13 @@ form {
       width: 65%;
     } 
   }
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 1.5rem;
 }
